@@ -1,0 +1,552 @@
+  UID   PID  PPID   C STIME   TTY           TIME CMD
+    0     1     0   0 Fri03PM ??         7:03.20 /sbin/launchd
+    0    91     1   0 Fri03PM ??         3:49.15 /usr/libexec/logd
+    0    92     1   0 Fri03PM ??         0:57.74 /usr/libexec/UserEventAgent (System)
+    0    95     1   0 Fri03PM ??         0:06.10 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+    0    96     1   0 Fri03PM ??         2:41.32 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+    0    97     1   0 Fri03PM ??         0:43.60 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+    0   100     1   0 Fri03PM ??         5:51.82 /usr/sbin/systemstats --daemon
+    0   101     1   0 Fri03PM ??         0:36.19 /usr/libexec/configd
+    0   103     1   0 Fri03PM ??         1:46.13 /System/Library/CoreServices/powerd.bundle/powerd
+    0   104     1   0 Fri03PM ??         0:06.24 /Library/Application Support/JAMF/Jamf.app/Contents/MacOS/JamfDaemon.app/Contents/MacOS/JamfDaemon
+    0   108     1   0 Fri03PM ??         0:00.24 /usr/libexec/remoted
+    0   110     1   0 Fri03PM ??         0:01.59 /usr/libexec/keybagd -t 15
+  200   112     1   0 Fri03PM ??         0:00.54 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+    0   114     1   0 Fri03PM ??         0:07.15 /usr/libexec/watchdogd
+    0   118     1   0 Fri03PM ??         4:10.55 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+  240   119     1   0 Fri03PM ??         0:00.21 /System/Library/CoreServices/iconservicesd
+    0   120     1   0 Fri03PM ??         0:12.09 /usr/libexec/kernelmanagerd
+    0   121     1   0 Fri03PM ??         0:08.49 /usr/libexec/diskarbitrationd
+    0   125     1   0 Fri03PM ??         3:37.25 /usr/libexec/coreduetd
+    0   126     1   0 Fri03PM ??         0:09.67 /usr/sbin/syslogd
+    0   129     1   0 Fri03PM ??         0:00.04 /usr/libexec/thermalmonitord
+    0   130     1   0 Fri03PM ??         3:45.96 /usr/libexec/opendirectoryd
+    0   131     1   0 Fri03PM ??         0:25.31 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+    0   132     1   0 Fri03PM ??         2:48.91 /System/Library/CoreServices/launchservicesd
+  266   133     1   0 Fri03PM ??         0:02.67 /usr/libexec/timed
+  213   134     1   0 Fri03PM ??         0:00.73 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+    0   135     1   0 Fri03PM ??         0:31.78 /usr/sbin/securityd -i
+    0   136     1   0 Fri03PM ??         0:00.04 auditd -l
+    0   140     1   0 Fri03PM ??         0:00.03 autofsd
+  244   141     1   0 Fri03PM ??         0:01.29 /usr/libexec/displaypolicyd -k 1
+    0   143     1   0 Fri03PM ??         1:07.39 /usr/libexec/dasd
+  241   145     1   0 Fri03PM ??         1:22.73 /usr/sbin/distnoted daemon
+    0   146     1   0 Fri03PM ??         0:00.40 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+    0   149     1   0 Fri03PM ??         0:00.37 /System/Library/CoreServices/logind
+    0   150     1   0 Fri03PM ??         0:00.63 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+    0   151     1   0 Fri03PM ??         0:00.02 /usr/sbin/KernelEventAgent
+    0   153     1   0 Fri03PM ??         5:03.32 /usr/sbin/bluetoothd
+    0   154     1   0 Fri03PM ??         1:01.44 /usr/sbin/notifyd
+    0   156     1   0 Fri03PM ??         0:58.33 /usr/libexec/corebrightnessd --launchd
+    0   157     1   0 Fri03PM ??         0:10.28 /usr/libexec/AirPlayXPCHelper
+    0   158     1   0 Fri03PM ??         0:00.43 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+    0   159     1   0 Fri03PM ??         1:12.54 /usr/sbin/cfprefsd daemon
+   88   160     1   0 Fri03PM ??       319:43.17 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+    0   161     1   0 Fri03PM ??         0:23.04 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+    0   162     1   0 Fri03PM ??         0:00.25 aslmanager
+  502   163     1   0 Fri03PM ??         0:54.79 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+    0   164     1   0 Fri03PM ??         1:31.60 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+    0   165     1   0 Fri03PM ??         0:00.17 /usr/libexec/PowerUIAgent
+    0   166     1   0 Fri03PM ??         0:05.10 /System/Library/CoreServices/coreservicesd
+  282   167     1   0 Fri03PM ??         0:53.90 /usr/libexec/trustd
+    0   168     1   0 Fri03PM ??         2:28.80 /usr/libexec/runningboardd
+    0   170     1   0 Fri03PM ??         0:06.29 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+    0   174     1   0 Fri03PM ??         2:14.78 /usr/libexec/syspolicyd
+    0   176     1   0 Fri03PM ??         0:06.79 /usr/sbin/distnoted agent
+    0   186     1   0 Fri03PM ??         2:40.58 /usr/libexec/airportd
+    0   187     1   0 Fri03PM ??         0:01.80 /usr/libexec/nehelper
+   24   188     1   0 Fri03PM ??         1:00.76 /usr/libexec/symptomsd
+   65   198     1   0 Fri03PM ??         0:47.09 /usr/sbin/mDNSResponder
+  202   199     1   0 Fri03PM ??        30:52.66 /usr/sbin/coreaudiod
+    0   203     1   0 Fri03PM ??         0:00.46 /usr/libexec/findmydeviced
+    0   204     1   0 Fri03PM ??         0:02.30 /usr/libexec/diskmanagementd
+    0   205     1   0 Fri03PM ??         0:03.17 /usr/libexec/amfid
+    0   210     1   0 Fri03PM ??         0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  263   214     1   0 Fri03PM ??         0:14.77 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+    0   226     1   0 Fri03PM ??         0:08.94 /usr/sbin/mDNSResponderHelper
+    0   228     1   0 Fri03PM ??         0:00.48 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+  202   229     1   0 Fri03PM ??         0:05.33 /usr/sbin/distnoted agent
+    0   231     1   0 Fri03PM ??         0:00.14 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+    0   232     1   0 Fri03PM ??         0:00.34 /usr/libexec/apfsd
+    0   233     1   0 Fri03PM ??         0:01.01 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+    0   234     1   0 Fri03PM ??         0:00.71 /usr/libexec/usbd
+    0   235     1   0 Fri03PM ??         0:09.07 /usr/libexec/lsd runAsRoot
+    0   238     1   0 Fri03PM ??         0:00.17 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+    0   239     1   0 Fri03PM ??         0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+    0   241     1   0 Fri03PM ??         0:15.33 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+    0   242     1   0 Fri03PM ??         1:54.43 /usr/libexec/mobileassetd
+    0   243     1   0 Fri03PM ??         0:00.27 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+  205   244     1   0 Fri03PM ??         0:05.66 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+  205   245     1   0 Fri03PM ??         0:06.26 /usr/sbin/distnoted agent
+  205   247     1   0 Fri03PM ??         0:00.03 /usr/sbin/cfprefsd agent
+  205   248     1   0 Fri03PM ??         0:01.60 /usr/libexec/trustd --agent
+    0   250     1   0 Fri03PM ??         0:01.03 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+    0   253     1   0 Fri03PM ??         0:00.84 /usr/libexec/searchpartyd
+    0   293     1   0 Fri03PM ??         0:00.39 /usr/libexec/logd_helper
+    0   298     1   0 Fri03PM ??         0:10.32 /usr/libexec/rtcreportingd
+    0   300     1   0 Fri03PM ??         9:10.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+  242   317     1   0 Fri03PM ??         0:17.70 /usr/libexec/nsurlsessiond --privileged
+    0   320     1   0 Fri03PM ??         0:00.31 /usr/libexec/thermald
+   89   324     1   0 Fri03PM ??         0:04.93 /usr/sbin/distnoted agent
+  200   330     1   0 Fri03PM ??         0:52.40 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+    0   332     1   0 Fri03PM ??         0:00.09 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+    0   336     1   0 Fri03PM ??         0:00.14 /System/Library/PrivateFrameworks/SiriInference.framework/Support/siriinferenced
+  262   337     1   0 Fri03PM ??         0:00.66 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+    0   338     1   0 Fri03PM ??         0:00.27 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+    0   342     1   0 Fri03PM ??         0:00.55 /usr/libexec/smd
+    0   345     1   0 Fri03PM ??         0:00.04 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+  200   346     1   0 Fri03PM ??         0:04.40 /usr/sbin/distnoted agent
+    0   348     1   0 Fri03PM ??         0:00.34 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+  261   349     1   0 Fri03PM ??         0:00.22 /usr/libexec/hidd
+   88   351     1   0 Fri03PM ??         0:04.39 /usr/sbin/distnoted agent
+    0   355     1   0 Fri03PM ??         0:01.36 /usr/libexec/wifianalyticsd
+    0   356     1   0 Fri03PM ??         0:00.05 /usr/libexec/colorsync.displayservices
+    0   357     1   0 Fri03PM ??         0:00.06 /usr/libexec/colorsyncd
+   55   358     1   0 Fri03PM ??         0:01.48 /System/Library/CoreServices/appleeventsd --server
+  205   359     1   0 Fri03PM ??         0:14.74 /usr/libexec/locationd
+    0   360     1   0 Fri03PM ??         0:00.18 /System/Library/CoreServices/sharedfilelistd
+    0   361     1   0 Fri03PM ??         0:10.36 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+  242   366     1   0 Fri03PM ??         0:04.34 /usr/sbin/distnoted agent
+    0   368     1   0 Fri03PM ??         0:00.15 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+    0   369     1   0 Fri03PM ??         0:00.71 /usr/libexec/symptomsd-diag
+   92   371     1   0 Fri03PM ??         0:04.35 /usr/sbin/distnoted agent
+    0   373     1   0 Fri03PM ??         0:00.29 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+    0   374     1   0 Fri03PM ??         0:00.50 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+    0   375     1   0 Fri03PM ??         0:00.29 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+    0   380     1   0 Fri03PM ??         0:03.59 /usr/sbin/systemsoundserverd
+  259   381     1   0 Fri03PM ??         0:00.07 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+  262   382     1   0 Fri03PM ??         1:03.02 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/AppleCamera.plugin/Contents/Resources/AppleCameraAssistant
+    0   384     1   0 Fri03PM ??         0:25.08 /usr/libexec/sysmond
+    0   385   100   0 Fri03PM ??         0:01.56 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+    0   392     1   0 Fri03PM ??         0:40.31 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+  270   393     1   0 Fri03PM ??         0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x1000005a1 com.apple.IOUserBluetoothSerialDriver
+  270   394     1   0 Fri03PM ??         0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x1000005a2 com.apple.IOUserBluetoothSerialDriver
+  270   395     1   0 Fri03PM ??         0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x1000005a3 com.apple.IOUserBluetoothSerialDriver
+    0   398     1   0 Fri03PM ??         0:00.14 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+    0   405     1   0 Fri03PM ??         0:00.09 /usr/libexec/mobileactivationd
+  502   406     1   0 Fri03PM ??         1:48.35 /usr/sbin/distnoted agent
+  502   407     1   0 Fri03PM ??         1:23.96 /usr/sbin/cfprefsd agent
+    0   408     1   0 Fri03PM ??         0:00.33 /usr/libexec/securityd_service
+  502   409     1   0 Fri03PM ??         0:13.75 /usr/libexec/UserEventAgent (Aqua)
+  247   410     1   0 Fri03PM ??         0:10.59 /usr/libexec/gamecontrollerd
+  502   413     1   0 Fri03PM ??         0:00.04 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+  502   415     1   0 Fri03PM ??         0:06.77 /usr/sbin/usernoted
+  502   416     1   0 Fri03PM ??         0:06.43 /usr/libexec/lsd
+  502   417     1   0 Fri03PM ??         0:12.64 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+  502   418     1   0 Fri03PM ??         0:08.18 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+  502   419     1   0 Fri03PM ??         0:20.41 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+  502   420     1   0 Fri03PM ??         2:25.93 /usr/libexec/trustd --agent
+  502   421     1   0 Fri03PM ??         0:00.07 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+  502   422     1   0 Fri03PM ??         0:14.79 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+  502   424     1   0 Fri03PM ??         0:16.84 /usr/libexec/knowledge-agent
+  502   425     1   0 Fri03PM ??       104:49.22 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+  502   426     1   0 Fri03PM ??         0:00.56 /System/Library/CoreServices/backgroundtaskmanagementagent
+  502   427     1   0 Fri03PM ??         0:05.05 /usr/libexec/secd
+  502   429     1   0 Fri03PM ??         0:41.59 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+  502   430     1   0 Fri03PM ??         0:02.42 /System/Library/CoreServices/sharedfilelistd
+  502   431     1   0 Fri03PM ??         0:01.60 /usr/libexec/secinitd
+  502   432     1   0 Fri03PM ??         0:01.64 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+  502   433     1   0 Fri03PM ??         0:00.31 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+  502   434     1   0 Fri03PM ??         0:00.65 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+  502   435     1   0 Fri03PM ??         0:15.82 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+  502   436     1   0 Fri03PM ??         0:00.11 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+  502   437     1   0 Fri03PM ??         0:03.85 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+  502   438     1   0 Fri03PM ??         0:00.93 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+  502   440     1   0 Fri03PM ??         0:01.97 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+  502   442     1   0 Fri03PM ??         0:28.61 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+  502   445     1   0 Fri03PM ??         1:44.84 /System/Applications/Messages.app/Contents/MacOS/Messages
+  502   446     1   0 Fri03PM ??         4:54.70 /Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook
+  502   447     1   0 Fri03PM ??         0:25.83 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+  502   449     1   0 Fri03PM ??         0:01.92 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+  502   450     1   0 Fri03PM ??         0:09.98 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+  502   451     1   0 Fri03PM ??         0:10.73 /System/Applications/Stickies.app/Contents/MacOS/Stickies
+  502   452     1   0 Fri03PM ??         0:01.30 /System/Library/CoreServices/talagent
+  502   453     1   0 Fri03PM ??         1:38.24 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+  502   454     1   0 Fri03PM ??         2:34.77 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+  502   455     1   0 Fri03PM ??         0:01.99 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+  502   456     1   0 Fri03PM ??         1:21.66 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+  502   459     1   0 Fri03PM ??         0:03.99 /usr/libexec/rapportd
+  502   460     1   0 Fri03PM ??         0:02.42 /usr/libexec/pboard
+  502   461     1   0 Fri03PM ??         0:13.52 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+  502   462     1   0 Fri03PM ??         0:02.61 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+  502   463     1   0 Fri03PM ??         0:12.72 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+  502   464     1   0 Fri03PM ??         0:07.81 /usr/libexec/pkd
+  502   465     1   0 Fri03PM ??         0:03.11 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+    0   466     1   0 Fri03PM ??         0:02.12 /usr/sbin/filecoordinationd
+  502   467     1   0 Fri03PM ??         0:05.66 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+  502   468     1   0 Fri03PM ??         0:01.80 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+  502   469     1   0 Fri03PM ??         0:16.43 /usr/libexec/sharingd
+  502   470     1   0 Fri03PM ??         3:04.96 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+  502   471     1   0 Fri03PM ??         0:02.36 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  502   472     1   0 Fri03PM ??         0:04.12 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+  502   473     1   0 Fri03PM ??         0:10.66 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+  502   474     1   0 Fri03PM ??         0:03.08 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+  502   475     1   0 Fri03PM ??         0:01.68 /System/Library/CoreServices/iconservicesagent
+  502   476     1   0 Fri03PM ??         0:02.44 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+   55   477     1   0 Fri03PM ??         0:04.30 /usr/sbin/distnoted agent
+  502   478     1   0 Fri03PM ??         0:11.90 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+  502   480     1   0 Fri03PM ??         0:18.58 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+  502   481     1   0 Fri03PM ??         0:00.26 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/mallorygilligan/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=97.0.4692.99 --handshake-fd=5
+    0   482     1   0 Fri03PM ??         0:00.10 automountd
+  502   483     1   0 Fri03PM ??         0:01.23 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+  502   485     1   0 Fri03PM ??         0:00.49 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+  502   487     1   0 Fri03PM ??         0:00.38 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+  502   489     1   0 Fri03PM ??         0:02.61 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+  502   490     1   0 Fri03PM ??         0:04.32 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+  502   491     1   0 Fri03PM ??         0:00.28 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+  502   492     1   0 Fri03PM ??         0:03.86 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+  502   493     1   0 Fri03PM ??         0:01.48 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+  502   496   425   0 Fri03PM ??       147:39.83 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --gpu-preferences=UAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAIAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgEAAAAAAAAmAQAAAAAAACIAQAAMAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAADAAQAAAAAAAMgBAAAAAAAA0AEAAAAAAADYAQAAAAAAAOABAAAAAAAA6AEAAAAAAADwAQAAAAAAAPgBAAAAAAAAAAIAAAAAAAAIAgAAAAAAABACAAAAAAAAGAIAAAAAAAAgAgAAAAAAACgCAAAAAAAAMAIAAAAAAAA4AgAAAAAAAEACAAAAAAAASAIAAAAAAABQAgAAAAAAAFgCAAAAAAAAYAIAAAAAAABoAgAAAAAAAHACAAAAAAAAeAIAAAAAAACAAgAAAAAAAIgCAAAAAAAAkAIAAAAAAACYAgAAAAAAAKACAAAAAAAAqAIAAAAAAACwAgAAAAAAALgCAAAAAAAAwAIAAAAAAADIAgAAAAAAANACAAAAAAAA2AIAAAAAAADgAgAAAAAAAOgCAAAAAAAA8AIAAAAAAAD4AgAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADgAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAABwAAABAAAAAAAAAABAAAAAgAAAAQAAAAAAAAAAQAAAAJAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAAwAAAAQAAAAAAAAAAQAAAAOAAAAEAAAAAAAAAAEAAAADwAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAIAAAAAAAAABAAAAAAAAAACAAAAAcAAAAQAAAAAAAAAAgAAAAIAAAAEAAAAAAAAAAIAAAACQAAABAAAAAAAAAACAAAAAsAAAAQAAAAAAAAAAgAAAAMAAAAEAAAAAAAAAAIAAAADgAAABAAAAAAAAAACAAAAA8AAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAABwAAABAAAAAAAAAACgAAAAgAAAAQAAAAAAAAAAoAAAAJAAAAEAAAAAAAAAAKAAAACwAAABAAAAAAAAAACgAAAAwAAAAQAAAAAAAAAAoAAAAOAAAAEAAAAAAAAAAKAAAADwAAAAgAAAAAAAAACAAAAAAAAAA= --shared-files --seatbelt-client=26
+  502   497     1   0 Fri03PM ??         0:29.57 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+  502   499     1   0 Fri03PM ??         0:00.35 /System/Library/CoreServices/pbs
+  502   500   425   0 Fri03PM ??        20:19.73 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --service-sandbox-type=network --shared-files --seatbelt-client=26
+  502   501     1   0 Fri03PM ??         0:01.23 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+  502   502     1   0 Fri03PM ??         0:05.84 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+  502   503     1   0 Fri03PM ??         0:02.80 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+  502   504     1   0 Fri03PM ??         0:01.28 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+  502   505     1   0 Fri03PM ??         0:00.39 /usr/libexec/avconferenced
+  502   506     1   0 Fri03PM ??         0:17.68 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+  502   508     1   0 Fri03PM ??         0:14.29 /usr/libexec/triald
+  502   509     1   0 Fri03PM ??         0:03.65 /usr/libexec/dmd
+  502   510     1   0 Fri03PM ??         0:10.71 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  502   511     1   0 Fri03PM ??         0:10.18 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+  502   512     1   0 Fri03PM ??         2:35.29 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+  502   513     1   0 Fri03PM ??         0:00.58 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+    0   514     1   0 Fri03PM ??         0:10.51 /usr/sbin/spindump
+  502   515     1   0 Fri03PM ??         0:00.07 /usr/libexec/spindump_agent
+  502   516     1   0 Fri03PM ??         0:00.22 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+  502   517   425   0 Fri03PM ??         0:19.73 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --service-sandbox-type=utility --shared-files --seatbelt-client=27
+  502   519     1   0 Fri03PM ??         0:01.85 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  502   520     1   0 Fri03PM ??         0:17.73 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+  502   521     1   0 Fri03PM ??         0:00.14 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+    0   522     1   0 Fri03PM ??         0:00.07 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+  502   523     1   0 Fri03PM ??         0:55.38 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+    0   524     1   0 Fri03PM ??         0:14.19 /usr/sbin/WirelessRadioManagerd
+  502   525     1   0 Fri03PM ??         0:00.90 /usr/libexec/fmfd
+  502   527     1   0 Fri03PM ??         0:02.58 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+  502   528     1   0 Fri03PM ??         4:16.46 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  502   529     1   0 Fri03PM ??         0:01.10 /usr/libexec/keyboardservicesd
+  502   530     1   0 Fri03PM ??         0:00.04 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  502   531     1   0 Fri03PM ??         0:00.03 /System/Library/CoreServices/APFSUserAgent
+    0   533     1   0 Fri03PM ??         0:00.67 /System/Library/CoreServices/SubmitDiagInfo server-init
+  502   534     1   0 Fri03PM ??         0:00.26 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+  502   535     1   0 Fri03PM ??         0:14.62 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+  502   536     1   0 Fri03PM ??         0:00.15 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariLaunchAgent
+  502   538   425   0 Fri03PM ??        61:37.86 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=6 --launch-time-ticks=54960406 --shared-files --seatbelt-client=135
+  502   539     1   0 Fri03PM ??         0:02.56 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+  502   544     1   0 Fri03PM ??         0:00.68 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+  502   545     1   0 Fri03PM ??         0:01.57 /System/Library/Image Capture/Support/icdd
+  502   547     1   0 Fri03PM ??         0:05.28 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+  502   551     1   0 Fri03PM ??         0:01.05 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+  502   553     1   0 Fri03PM ??         0:01.37 /System/Library/CoreServices/cloudpaird
+  502   555     1   0 Fri03PM ??         0:04.27 /System/Library/CoreServices/diagnostics_agent
+  502   556     1   0 Fri03PM ??         0:08.28 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+  502   558     1   0 Fri03PM ??         0:07.44 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+  502   560     1   0 Fri03PM ??         0:00.22 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+    0   561     1   0 Fri03PM ??         0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  502   563     1   0 Fri03PM ??         0:01.22 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+  502   564     1   0 Fri03PM ??         0:01.16 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+  502   565   425   0 Fri03PM ??         1:22.03 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --launch-time-ticks=55885476 --shared-files --seatbelt-client=125
+  502   566   425   0 Fri03PM ??         0:01.50 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --extension-process --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=8 --launch-time-ticks=55934670 --shared-files --seatbelt-client=147
+  502   568     1   0 Fri03PM ??         0:08.26 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502   570     1   0 Fri03PM ??         0:02.05 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+  502   573     1   0 Fri03PM ??         0:12.30 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+  502   574     1   0 Fri03PM ??         0:03.23 /System/Library/PrivateFrameworks/IMTranscoding.framework/XPCServices/IMTranscoderAgent.xpc/Contents/MacOS/IMTranscoderAgent
+  502   575     1   0 Fri03PM ??         0:17.31 /usr/libexec/nsurlsessiond
+  502   576     1   0 Fri03PM ??         0:01.80 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+  502   577     1   0 Fri03PM ??         1:17.59 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+  502   578     1   0 Fri03PM ??         0:01.57 /System/Library/CoreServices/ScopedBookmarkAgent
+  502   580     1   0 Fri03PM ??         2:53.14 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+  502   581     1   0 Fri03PM ??         0:01.71 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+  502   582     1   0 Fri03PM ??         0:00.02 SafeEjectGPUAgent
+  502   583     1   0 Fri03PM ??         0:00.03 /System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/XPCServices/SafeEjectGPUService.xpc/Contents/MacOS/SafeEjectGPUService
+  502   586     1   0 Fri03PM ??         0:00.01 /Users/mallorygilligan/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/ipcserver
+  502   587     1   0 Fri03PM ??         0:21.17 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+  502   588     1   0 Fri03PM ??         0:00.37 /usr/libexec/diagnosticextensionsd
+  502   592     1   0 Fri03PM ??         0:03.87 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+  502   593     1   0 Fri03PM ??         0:35.61 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+  502   595     1   0 Fri03PM ??         0:00.53 /usr/libexec/WiFiVelocityAgent
+    0   596     1   0 Fri03PM ??         0:03.10 /usr/libexec/wifivelocityd
+  502   597     1   0 Fri03PM ??         1:04.63 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+  502   598     1   0 Fri03PM ??         0:08.49 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+  502   599     1   0 Fri03PM ??         0:00.96 /usr/libexec/siriknowledged
+  502   603     1   0 Fri03PM ??         0:01.95 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+  258   604     1   0 Fri03PM ??         0:00.56 /usr/libexec/captiveagent
+  502   606     1   0 Fri03PM ??         1:27.88 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+  502   607     1   0 Fri03PM ??         0:21.33 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+  502   608     1   0 Fri03PM ??         0:00.89 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+  502   609     1   0 Fri03PM ??         0:08.25 /usr/libexec/networkserviceproxy
+  502   611     1   0 Fri03PM ??         0:06.38 /usr/libexec/swcd
+  235   612     1   0 Fri03PM ??         0:01.89 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+  265   613     1   0 Fri03PM ??         0:01.89 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+  235   614     1   0 Fri03PM ??         0:00.44 /usr/libexec/AssetCache/AssetCache
+  235   615     1   0 Fri03PM ??         0:04.22 /usr/sbin/distnoted agent
+  242   617     1   0 Fri03PM ??         0:00.50 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.xpc/Contents/MacOS/com.apple.StreamingUnzipService
+  502   642   425   0 Fri03PM ??         2:18.86 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=31 --launch-time-ticks=76357981 --shared-files --seatbelt-client=206
+    0   644     1   0 Fri03PM ??         0:01.38 /Library/Application Support/JAMF/Jamf.app/Contents/MacOS/JamfDaemon.app/Contents/XPCServices/JamfProCommService.xpc/Contents/MacOS/JamfProCommService
+  502   667   425   0 Fri03PM ??         0:20.39 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=51 --launch-time-ticks=79570245 --shared-files --seatbelt-client=212
+  502   708     1   0 Fri03PM ??         0:01.41 /System/Library/PrivateFrameworks/IDSBlastDoorSupport.framework/Versions/A/XPCServices/IDSBlastDoorService.xpc/Contents/MacOS/IDSBlastDoorService
+  502   723   425   0 Fri03PM ??         9:53.36 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=26 --launch-time-ticks=87693592 --shared-files --seatbelt-client=233
+  502   737   425   0 Fri03PM ??         1:05.32 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=33 --launch-time-ticks=89611129 --shared-files --seatbelt-client=235
+    0   747     1   0 Fri03PM ??         0:00.08 /usr/libexec/misagent
+  502   750     1   0 Fri03PM ??         0:00.21 /usr/libexec/USBAgent
+  502   761   425   0 Fri03PM ??         7:06.03 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=52 --launch-time-ticks=90514583 --shared-files --seatbelt-client=235
+  502   777   425   0 Fri03PM ??         6:46.23 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=32 --launch-time-ticks=94137037 --shared-files --seatbelt-client=238
+    0   778     1   0 Fri03PM ??         0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+    0   779     1   0 Fri03PM ??         0:05.65 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CAReportingService.xpc/Contents/MacOS/CAReportingService
+  502   783     1   0 Fri03PM ??         0:01.12 /usr/libexec/neagent
+  502   784     1   0 Fri03PM ??         0:00.43 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+    0   786     1   0 Fri03PM ??         0:01.13 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+    0   798     1   0 Fri03PM ??         0:00.09 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+  502   800   425   0 Fri03PM ??         3:11.51 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=22 --launch-time-ticks=101358786 --shared-files --seatbelt-client=313
+  502   802     1   0 Fri03PM ??         0:02.54 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+    0   804     1   0 Fri03PM ??         0:00.65 /Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/MacOS/StandaloneUpdaterDaemon
+  502   805     1   0 Fri03PM ??         0:17.40 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+  502   806   425   0 Fri03PM ??        22:35.47 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=21 --launch-time-ticks=106472913 --shared-files --seatbelt-client=314
+  502   807   425   0 Fri03PM ??         6:15.69 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=17 --launch-time-ticks=106580788 --shared-files --seatbelt-client=315
+    0   812     1   0 Fri03PM ??         0:01.06 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+    0   816     1   0 Fri03PM ??         2:48.81 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+  502   824   425   0 Fri03PM ??         0:26.83 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=54 --launch-time-ticks=112081343 --shared-files --seatbelt-client=327
+  502   825   425   0 Fri03PM ??         0:19.68 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=55 --launch-time-ticks=112238467 --shared-files --seatbelt-client=328
+  502   827   425   0 Fri03PM ??         0:07.43 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=57 --launch-time-ticks=112277789 --shared-files --seatbelt-client=330
+  502   828   425   0 Fri03PM ??         0:17.34 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=58 --launch-time-ticks=112296782 --shared-files --seatbelt-client=331
+  502   829   425   0 Fri03PM ??         0:14.83 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=59 --launch-time-ticks=112308493 --shared-files --seatbelt-client=332
+  502   830   425   0 Fri03PM ??         0:33.98 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=60 --launch-time-ticks=112330393 --shared-files --seatbelt-client=333
+  502   831   425   0 Fri03PM ??         0:18.33 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=61 --launch-time-ticks=112340922 --shared-files --seatbelt-client=334
+  502   832   425   0 Fri03PM ??         0:14.14 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=62 --launch-time-ticks=112418393 --shared-files --seatbelt-client=335
+  502   833   425   0 Fri03PM ??         0:23.29 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=63 --launch-time-ticks=112435756 --shared-files --seatbelt-client=336
+  502   834   425   0 Fri03PM ??         0:16.72 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=64 --launch-time-ticks=112455201 --shared-files --seatbelt-client=337
+  502   835   425   0 Fri03PM ??         4:23.70 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=15 --launch-time-ticks=113295230 --shared-files --seatbelt-client=327
+  502   836   425   0 Fri03PM ??         0:18.64 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=65 --launch-time-ticks=113338768 --shared-files --seatbelt-client=328
+  502   837   425   0 Fri03PM ??         0:19.50 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=66 --launch-time-ticks=113549481 --shared-files --seatbelt-client=328
+  502   839   425   0 Fri03PM ??         0:07.65 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=68 --launch-time-ticks=113611358 --shared-files --seatbelt-client=331
+  502   840   425   0 Fri03PM ??         0:19.26 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=69 --launch-time-ticks=114331396 --shared-files --seatbelt-client=322
+  502   843   425   0 Fri03PM ??         1:15.58 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=70 --launch-time-ticks=116413093 --shared-files --seatbelt-client=322
+  502   844     1   0 Fri03PM ??         0:04.75 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+  502   847   425   0 Fri03PM ??         0:04.70 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=73 --launch-time-ticks=118813941 --shared-files --seatbelt-client=322
+  502   848   425   0 Fri03PM ??         5:32.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=24 --launch-time-ticks=119125440 --shared-files --seatbelt-client=322
+  502   854     1   0 Fri03PM ??         0:00.03 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+    0   861     1   0 Fri03PM ??         0:00.05 /System/Library/CoreServices/ReportCrash daemon
+  269   864     1   0 Fri03PM ??         0:04.14 /usr/sbin/distnoted agent
+    0   865     1   0 Fri03PM ??         0:00.07 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+  244   866     1   0 Fri03PM ??         0:03.98 /usr/sbin/distnoted agent
+  213   867     1   0 Fri03PM ??         0:03.71 /usr/sbin/distnoted agent
+  241   868     1   0 Fri03PM ??         0:03.82 /usr/sbin/distnoted agent
+  266   869     1   0 Fri03PM ??         0:03.65 /usr/sbin/distnoted agent
+  282   870     1   0 Fri03PM ??         0:03.62 /usr/sbin/distnoted agent
+   24   871     1   0 Fri03PM ??         0:03.63 /usr/sbin/distnoted agent
+   65   872     1   0 Fri03PM ??         0:03.65 /usr/sbin/distnoted agent
+  263   873     1   0 Fri03PM ??         0:03.76 /usr/sbin/distnoted agent
+  240   874     1   0 Fri03PM ??         0:03.86 /usr/sbin/distnoted agent
+  262   875     1   0 Fri03PM ??         0:03.87 /usr/sbin/distnoted agent
+  261   877     1   0 Fri03PM ??         0:03.86 /usr/sbin/distnoted agent
+  259   878     1   0 Fri03PM ??         0:03.80 /usr/sbin/distnoted agent
+  270   879     1   0 Fri03PM ??         0:03.73 /usr/sbin/distnoted agent
+  247   880     1   0 Fri03PM ??         0:03.66 /usr/sbin/distnoted agent
+  258   881     1   0 Fri03PM ??         0:03.59 /usr/sbin/distnoted agent
+  222   882     1   0 Fri03PM ??         0:03.53 /usr/sbin/distnoted agent
+  265   883     1   0 Fri03PM ??         0:03.45 /usr/sbin/distnoted agent
+  502   886     1   0 Fri03PM ??         0:01.46 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+  265   887     1   0 Fri03PM ??         0:03.52 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+  502   899     1   0 Fri03PM ??         0:03.78 /usr/libexec/adprivacyd
+  502   904     1   0 Fri03PM ??         0:04.95 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+    0   907     1   0 Fri03PM ??         0:00.06 /usr/libexec/online-authd
+  502   908     1   0 Fri03PM ??         0:00.65 /System/Library/CoreServices/ReportCrash agent
+  502   909     1   0 Fri03PM ??         0:00.84 /usr/libexec/biomesyncd
+    0   910     1   0 Fri03PM ??         0:00.36 /usr/libexec/aned
+   89   913     1   0 Fri03PM ??         0:12.37 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+   89   914     1   0 Fri03PM ??         0:00.64 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+   89   915     1   0 Fri03PM ??         0:02.25 /usr/libexec/trustd --agent
+  502  1006     1   0 Fri03PM ??         0:04.61 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+    0  1030     1   0 Fri03PM ??         0:00.06 /System/Library/CoreServices/osanalyticshelper server-init
+    0  1157     1   0 Fri03PM ??         0:02.13 /usr/libexec/wifip2pd
+   89  1163     1   0 Fri03PM ??         0:00.08 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+    0  1182     1   0 Fri03PM ??         0:00.20 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+  502  1183     1   0 Fri03PM ??         0:00.26 /usr/libexec/replayd
+  502  1185     1   0 Fri03PM ??         0:00.42 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+  502  1186     1   0 Fri03PM ??         0:15.58 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+  502  1187     1   0 Fri03PM ??         0:00.28 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+    0  1188     1   0 Fri03PM ??         0:00.09 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+    0  1189     1   0 Fri03PM ??         0:02.54 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+  502  1190     1   0 Fri03PM ??         0:00.37 /System/Applications/TV.app/Contents/PlugIns/TVCacheExtension.appex/Contents/MacOS/TVCacheExtension -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502  1191     1   0 Fri03PM ??         0:00.71 /Applications/Safari.app/Contents/PlugIns/CacheDeleteExtension.appex/Contents/MacOS/CacheDeleteExtension -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502  1192     1   0 Fri03PM ??         0:01.80 /System/Applications/Music.app/Contents/PlugIns/MusicCacheExtension.appex/Contents/MacOS/MusicCacheExtension -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+    0  1193     1   0 Fri03PM ??         0:00.13 /usr/libexec/memoryanalyticsd -xlatS
+  274  1194     1   0 Fri03PM ??         0:00.08 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+    0  1195     1   0 Fri03PM ??         0:00.09 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedTaskService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedTaskService
+  502  1196     1   0 Fri03PM ??         0:04.15 /usr/libexec/promotedcontentd
+  265  1197     1   0 Fri03PM ??         0:01.72 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+  502  1200     1   0 Fri04PM ??         0:01.22 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/PasswordBreachAgent
+  502  1210     1   0 Fri04PM ??         0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  502  1376     1   0 Fri04PM ??         0:00.03 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+  502  1378     1   0 Fri04PM ??         0:00.68 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+  502  1512     1   0 Fri04PM ??        13:07.88 /Applications/VMware Fusion.app/Contents/MacOS/VMware Fusion
+  502  1557     1   0 Fri04PM ??         0:14.84 /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd
+  502  1573     1   0 Fri04PM ??         0:01.09 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Start Menu.app/Contents/MacOS/VMware Fusion Start Menu
+  502  1576     1   0 Fri04PM ??         0:00.02 /Library/Application Support/VMware/VMware Fusion/Services/Contents/Library/services/VMware Fusion Services 3 4
+  502  1577     1   0 Fri04PM ??        16:32.39 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/MacOS/VMware Fusion Applications Menu
+  502  1650  1577   0 Fri04PM ??        22:33.79 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Frameworks/VMware Fusion Applications Menu Helper.app/Contents/MacOS/VMware Fusion Applications Menu Helper --type=renderer --no-sandbox --service-pipe-token=38EAB1899C6AC5D6A4D1FACEA962025E --lang=en-US --app-path=/Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,34037;0,12,34037;0,13,34037;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,34037;1,12,34037;1,13,34037;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,34037;2,12,34037;2,13,34037;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,34037;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,34037;3,14,34037;3,15,3553;3,16,34037;3,17,34037;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,34037;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,34037;4,14,34037;4,15,3553;4,16,34037;4,17,34037 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=38EAB1899C6AC5D6A4D1FACEA962025E --renderer-client-id=3
+  502  1655  1577   0 Fri04PM ??         0:11.80 /Applications/VMware Fusion.app/Contents/Library/amsrv -D -p 8698
+  502  1656  1655   0 Fri04PM ??         0:41.11 /Applications/VMware Fusion.app/Contents/Library/amsrv -D -p 8698
+    0  1665     1   0 Fri04PM ??         0:00.13 /Library/Application Support/VMware/VMware Fusion/Services/Contents/Library/vmnet-bridge
+    0  1673     1   0 Fri04PM ??         0:00.01 /Library/Application Support/VMware/VMware Fusion/Services/Contents/Library/vmnet-natd -s 6 -m /Library/Preferences/VMware Fusion/vmnet8/nat.mac -c /Library/Preferences/VMware Fusion/vmnet8/nat.conf
+    0  1675     1   0 Fri04PM ??         0:15.35 /Library/Application Support/VMware/VMware Fusion/Services/Contents/Library/vmware-usbarbitrator
+  502  1676     1   0 Fri04PM ??         0:01.93 /System/Library/Frameworks/CoreSpotlight.framework/CoreSpotlightService
+  502  1688     1   0 Fri04PM ??         0:00.50 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502  1701     1   0 Fri04PM ??         0:01.54 /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+  502  1708     1   0 Fri04PM ??         0:04.53 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+   88  1788     1   0 Fri04PM ??         0:01.30 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502  1790     1   0 Fri04PM ??         0:00.13 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+    0  1889     1   0 Fri04PM ??         0:00.06 /usr/libexec/taskgated
+  502  1890     1   0 Fri04PM ??         0:00.24 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+  502  1895     1   0 Fri04PM ??         0:00.29 cloudphotod
+  502  1903     1   0 Fri06PM ??         0:05.64 /usr/libexec/transparencyd
+    0  1904     1   0 Fri06PM ??         0:00.10 /usr/libexec/tzd
+  502  1906     1   0 Fri06PM ??         0:00.30 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+  502  1907     1   0 Fri06PM ??         0:01.39 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+  502  1909     1   0 Fri06PM ??         0:02.35 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+  502  1910     1   0 Fri06PM ??         0:11.22 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+  502  1911     1   0 Fri06PM ??         0:01.02 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+  502  1912     1   0 Fri06PM ??         0:00.58 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+  502  1914     1   0 Fri06PM ??         0:00.60 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+    0  1915     1   0 Fri06PM ??         0:00.68 /usr/libexec/dprivacyd
+  502  1943     1   0 Fri08PM ??         0:00.54 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+    0  1944     1   0 Fri08PM ??         0:00.14 /usr/libexec/ASPCarryLog
+  502  1958     1   0 Fri08PM ??         0:01.64 /usr/libexec/proactiveeventtrackerd
+  502  1959     1   0 Fri08PM ??         0:02.01 /System/Library/PrivateFrameworks/PaperKit.framework/Contents/LinkedNotesUIService.app/Contents/MacOS/LinkedNotesUIService
+  502  1976     1   0 Fri08PM ??         0:00.03 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+  502  1994     1   0 Fri08PM ??         0:00.11 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+  502  1995     1   0 Fri08PM ??         0:00.07 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502  1996     1   0 Fri08PM ??         0:04.26 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+  502  2029     1   0 Fri08PM ??         0:45.07 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+   33  2284     1   0 Fri08PM ??         0:07.47 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstored
+    0  2285     1   0 Fri08PM ??         0:01.13 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+    0  2289     1   0 Fri08PM ??         0:00.08 /System/Library/PrivateFrameworks/SystemAdministration.framework/XPCServices/writeconfig.xpc/Contents/MacOS/writeconfig
+    0  2291     1   0 Fri08PM ??         0:00.10 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheManagerService.xpc/Contents/MacOS/AssetCacheManagerService
+  502  2295   425   0 Fri08PM ??         7:58.61 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --service-sandbox-type=audio --message-loop-type-ui --shared-files --seatbelt-client=329
+  502  2296     1   0 Fri08PM ??         0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502  2471   425   0 Fri10PM ??         0:10.98 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=121 --launch-time-ticks=2900709958 --shared-files --seatbelt-client=366
+  502  2476   425   0 Fri10PM ??         0:07.11 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=138 --launch-time-ticks=2912205207 --shared-files --seatbelt-client=367
+    0  3006     1   0 Sat07AM ??         0:00.01 /usr/sbin/aslmanager -s /var/log/eventmonitor
+  502  3078     1   0 Sat11AM ??         0:00.11 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+  502  3083     1   0 Sat11AM ??         0:00.14 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+  502  3256     1   0 Sat11AM ??         0:00.07 /usr/libexec/metrickitd
+  502  3529     1   0 Sat12PM ??         0:00.02 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+  502  3530     1   0 Sat12PM ??         0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502  5457     1   0 Sat05PM ??         0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502  5458     1   0 Sat05PM ??         0:01.15 /System/Library/Frameworks/Intents.framework/XPCServices/intents_helper.xpc/Contents/MacOS/intents_helper
+  502  6206     1   0 Sat06PM ??        26:29.76 /Applications/Spotify.app/Contents/MacOS/Spotify
+  502  6208     1   0 Sat06PM ??         0:00.40 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --monitor-self-annotation=ptype=crashpad-handler --type=crashpad-handler --max-uploads=5 --max-db-size=20 --max-db-age=5 --database=/Users/mallorygilligan/Library/Application Support/Spotify/User Data --url=https://crashdump.spotify.com:443/ --annotation=platform=macos --annotation=product=spotify --annotation=version=1.1.77.643 --handshake-fd=6
+  502  6212  6206   0 Sat06PM ??        22:09.07 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (GPU).app/Contents/MacOS/Spotify Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,3258071742123661352,3073265543570123059,131072 --log-severity=disable --user-agent-product=Chrome/96.0.4664.93 Spotify/1.1.77.643 --lang=en --user-data-dir=/Users/mallorygilligan/Library/Application Support/Spotify/User Data --gpu-preferences=UAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgEAAAAAAAAmAQAAAAAAACIAQAAMAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAADAAQAAAAAAAMgBAAAAAAAA0AEAAAAAAADYAQAAAAAAAOABAAAAAAAA6AEAAAAAAADwAQAAAAAAAPgBAAAAAAAAAAIAAAAAAAAIAgAAAAAAABACAAAAAAAAGAIAAAAAAAAgAgAAAAAAACgCAAAAAAAAMAIAAAAAAAA4AgAAAAAAAEACAAAAAAAASAIAAAAAAABQAgAAAAAAAFgCAAAAAAAAYAIAAAAAAABoAgAAAAAAAHACAAAAAAAAeAIAAAAAAACAAgAAAAAAAIgCAAAAAAAAkAIAAAAAAACYAgAAAAAAAKACAAAAAAAAqAIAAAAAAACwAgAAAAAAALgCAAAAAAAAwAIAAAAAAADIAgAAAAAAANACAAAAAAAA2AIAAAAAAADgAgAAAAAAAOgCAAAAAAAA8AIAAAAAAAD4AgAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAYAAAAQAAAAAAAAAAEAAAAHAAAAEAAAAAAAAAABAAAACAAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAAAQAAAA4AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACgAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAAGAAAAEAAAAAAAAAAHAAAABwAAABAAAAAAAAAABwAAAAgAAAAQAAAAAAAAAAcAAAAKAAAAEAAAAAAAAAAHAAAACwAAABAAAAAAAAAABwAAAA0AAAAQAAAAAAAAAAcAAAAOAAAAEAAAAAAAAAAIAAAAAAAAABAAAAAAAAAACAAAAAYAAAAQAAAAAAAAAAgAAAAHAAAAEAAAAAAAAAAIAAAACAAAABAAAAAAAAAACAAAAAoAAAAQAAAAAAAAAAgAAAALAAAAEAAAAAAAAAAIAAAADQAAABAAAAAAAAAACAAAAA4AAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACgAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAANAAAAEAAAAAAAAAAKAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --log-file=/Users/mallorygilligan/Library/Logs/Spotify_debug.log --shared-files --seatbelt-client=19
+  502  6214     1   0 Sat06PM ??         0:00.03 /usr/libexec/loginitemregisterd
+  502  6215     1   0 Sat06PM ??         0:00.23 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  502  6217  6206   0 Sat06PM ??         0:00.92 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=1718379636,3258071742123661352,3073265543570123059,131072 --lang=en --service-sandbox-type=utility --use-mock-keychain --log-severity=disable --user-agent-product=Chrome/96.0.4664.93 Spotify/1.1.77.643 --lang=en --user-data-dir=/Users/mallorygilligan/Library/Application Support/Spotify/User Data --log-file=/Users/mallorygilligan/Library/Logs/Spotify_debug.log --shared-files --seatbelt-client=68
+  502  6218  6206   0 Sat06PM ??         3:15.87 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1718379636,3258071742123661352,3073265543570123059,131072 --lang=en --service-sandbox-type=network --use-mock-keychain --log-severity=disable --user-agent-product=Chrome/96.0.4664.93 Spotify/1.1.77.643 --lang=en --user-data-dir=/Users/mallorygilligan/Library/Application Support/Spotify/User Data --log-file=/Users/mallorygilligan/Library/Logs/Spotify_debug.log --shared-files --seatbelt-client=67
+  502  6220  6206   0 Sat06PM ??       218:15.69 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (Renderer).app/Contents/MacOS/Spotify Helper (Renderer) --type=renderer --log-severity=disable --user-agent-product=Chrome/96.0.4664.93 Spotify/1.1.77.643 --disable-scroll-bounce --disable-spell-checking --user-data-dir=/Users/mallorygilligan/Library/Application Support/Spotify/User Data --log-file=/Users/mallorygilligan/Library/Logs/Spotify_debug.log --field-trial-handle=1718379636,3258071742123661352,3073265543570123059,131072 --lang=en --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --shared-files --seatbelt-client=78
+  502  6221     1   0 Sat06PM ??         0:00.19 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+  502  6271     1   0 Sat06PM ??         0:00.05 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+  502  6273     1   0 Sat06PM ??         0:02.56 /System/Library/CoreServices/mapspushd
+  502  6317     1   0 Sat06PM ??         0:02.95 /usr/libexec/tipsd
+  502  6355     1   0 Sat06PM ??         0:00.08 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+    0  6366     1   0 Sat06PM ??         0:00.05 /usr/libexec/periodic-wrapper daily
+  502  6409     1   0 Sat06PM ??         0:00.73 /usr/libexec/appleaccountd
+    0  6468     1   0 Sat06PM ??         0:00.04 /usr/libexec/batteryintelligenced
+  502  6471     1   0 Sat06PM ??         0:00.13 /usr/libexec/proactived
+  502  6529     1   0 Sat06PM ??         0:06.49 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+  502  6546     1   0 Sat06PM ??         0:00.09 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService
+  502  6547     1   0 Sat06PM ??         0:00.09 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+  502  6548     1   0 Sat06PM ??         0:01.12 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+  502  6558     1   0 Sat06PM ??         0:02.82 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+    0  6559     1   0 Sat06PM ??         0:00.09 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+    0  6560     1   0 Sat06PM ??         0:00.06 /usr/libexec/microstackshot
+    0  6563     1   0 Sat06PM ??         0:00.13 /usr/bin/sysdiagnose
+  502  6564     1   0 Sat06PM ??         0:00.30 /System/Applications/Mail.app/Contents/PlugIns/MailCacheDelete.appex/Contents/MacOS/MailCacheDelete -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+    0  6566     1   0 Sat06PM ??         0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdsync -s mdworker-scan -c MDSSyncScanWorker -m com.apple.metadata.mds.scan
+  502  6589   425   0 Sat06PM ??         2:11.22 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=30 --launch-time-ticks=20920926993 --shared-files --seatbelt-client=319
+  502  6680     1   0 Sat06PM ??         0:11.02 /System/Library/PrivateFrameworks/NewsDaemon.framework/newsd
+  502  6692     1   0 Sat06PM ??         0:02.59 /System/Applications/Messages.app/Contents/PlugIns/MobileSMSSpotlightImporterCatalyst.appex/Contents/MacOS/MobileSMSSpotlightImporterCatalyst -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502  6761     1   0 Sat06PM ??         0:00.51 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+  502  6769     1   0 Sat06PM ??         0:18.07 /System/Library/PrivateFrameworks/MediaConversionService.framework/Versions/A/XPCServices/com.apple.photos.ImageConversionService.xpc/Contents/MacOS/com.apple.photos.ImageConversionService
+  502  6770     1   0 Sat06PM ??         0:06.02 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+  502  6771     1   0 Sat06PM ??         0:01.38 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  502  6788  6206   0 Sat07PM ??         0:03.69 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1718379636,3258071742123661352,3073265543570123059,131072 --lang=en --service-sandbox-type=audio --use-mock-keychain --message-loop-type-ui --log-severity=disable --user-agent-product=Chrome/96.0.4664.93 Spotify/1.1.77.643 --lang=en --user-data-dir=/Users/mallorygilligan/Library/Application Support/Spotify/User Data --log-file=/Users/mallorygilligan/Library/Logs/Spotify_debug.log --shared-files --seatbelt-client=129
+  502  6789     1   0 Sat07PM ??         0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502  6889     1   0 Sat07PM ??         0:00.05 /usr/libexec/mlruntimed
+  502  8126     1   0 Sun11AM ??         0:00.03 /System/Library/PrivateFrameworks/CharacterPicker.framework/Versions/A/XPCServices/com.apple.CharacterPicker.FileService.xpc/Contents/MacOS/com.apple.CharacterPicker.FileService
+  502  8854   425   0 Sun12PM ??         7:54.75 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=211 --launch-time-ticks=28752707160 --shared-files --seatbelt-client=319
+  502  9289   425   0 Sun01PM ??         0:08.52 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=119 --launch-time-ticks=30751513418 --shared-files --seatbelt-client=319
+  502  9292   425   0 Sun01PM ??         0:06.92 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=120 --launch-time-ticks=30751985012 --shared-files --seatbelt-client=319
+  502  9294   425   0 Sun01PM ??         0:03.85 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=218 --launch-time-ticks=30752503543 --shared-files --seatbelt-client=319
+  502  9295   425   0 Sun01PM ??         0:03.68 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=219 --launch-time-ticks=30752530014 --shared-files --seatbelt-client=320
+  502  9312   425   0 Sun01PM ??         0:05.91 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=220 --launch-time-ticks=30812038147 --shared-files --seatbelt-client=319
+  502  9313   425   0 Sun01PM ??         0:04.60 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=221 --launch-time-ticks=30812051095 --shared-files --seatbelt-client=320
+  502  9314   425   0 Sun01PM ??         0:03.36 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=222 --launch-time-ticks=30812071684 --shared-files --seatbelt-client=321
+  502  9315   425   0 Sun01PM ??         1:06.24 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=223 --launch-time-ticks=30827029617 --shared-files --seatbelt-client=319
+  502  9318   425   0 Sun01PM ??         0:03.27 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=226 --launch-time-ticks=30844221698 --shared-files --seatbelt-client=319
+  502  9323   425   0 Sun01PM ??         0:03.30 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=230 --launch-time-ticks=30886100427 --shared-files --seatbelt-client=319
+  502 10095     1   0 Sun02PM ??         0:02.34 /System/Library/CoreServices/rcd.app/Contents/MacOS/rcd
+  502 10449   425   0 Sun02PM ??         0:23.84 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=23 --launch-time-ticks=35399377520 --shared-files --seatbelt-client=343
+  502 10458   425   0 Sun02PM ??         1:26.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=244 --launch-time-ticks=35401331145 --shared-files --seatbelt-client=343
+  502 10467   425   0 Sun02PM ??         0:06.36 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=245 --launch-time-ticks=35406782855 --shared-files --seatbelt-client=343
+  502 10469     1   0 Sun02PM ??         0:00.86 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool
+  502 10482     1   0 Sun02PM ??         0:43.90 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  502 10483     1   0 Sun02PM ??         0:08.28 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  502 10484     1   0 Sun02PM ??         0:05.05 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+  502 11421     1   0 Sun04PM ??         0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502 11423     1   0 Sun04PM ??         0:00.87 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502 11424     1   0 Sun04PM ??         0:00.57 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502 13655     1   0 Sun08PM ??         0:00.33 /System/Library/Frameworks/QuickLookThumbnailing.framework/Versions/A/PlugIns/ThumbnailExtension_macOS.appex/Contents/MacOS/ThumbnailExtension_macOS -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502 13663     1   0 Sun08PM ??         0:00.21 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.MobileDocumentsFileProvider -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502 13928     1   0 Sun08PM ??         7:57.55 /System/Applications/Music.app/Contents/MacOS/Music
+  502 13929     1   0 Sun08PM ??         0:01.68 /System/Applications/Music.app/Contents/XPCServices/VisualizerService.xpc/Contents/MacOS/VisualizerService
+  502 16494     1   0 Mon10AM ??         0:00.97 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502 19383     1   0 Mon08PM ??         0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502 19384     1   0 Mon08PM ??         0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502 19385     1   0 Mon08PM ??         0:02.69 /System/Library/PrivateFrameworks/TrialServer.framework/Versions/A/XPCServices/TrialArchivingService.xpc/Contents/MacOS/TrialArchivingService
+  502 20727     1   0 Mon10PM ??         0:00.13 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/QLPreviewGenerationExtension.appex/Contents/MacOS/QLPreviewGenerationExtension -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502 21372   425   0 Mon11PM ??         1:00.42 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=540 --launch-time-ticks=80187696372 --shared-files --seatbelt-client=324
+  502 21839     1   0 Tue12AM ??         0:00.07 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502 21869   425   0 Tue12AM ??         2:44.25 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=20 --launch-time-ticks=82195109998 --shared-files --seatbelt-client=324
+  502 22054   425   0 Tue12AM ??         1:59.10 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=605 --launch-time-ticks=82918494805 --shared-files --seatbelt-client=335
+  502 27264     1   0 Tue05PM ??         0:00.20 /System/Library/CoreServices/Setup Assistant.app/Contents/Resources/mbuseragent
+    0 27272     1   0 Tue05PM ??         0:00.01 /usr/libexec/periodic-wrapper weekly
+  257 27293     1   0 Tue05PM ??         0:00.07 /usr/libexec/DataDetectorsSourceAccess
+  502 28078     1   0 Tue08PM ??         0:00.15 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502 28896     1   0 Wed10AM ??         0:01.24 /System/iOSSupport/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+  502 29174     1   0 Wed11AM ??         0:00.26 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502 31702   425   0 Wed04PM ??         0:07.12 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=993 --launch-time-ticks=119694869684 --shared-files --seatbelt-client=358
+  502 31784   425   0 Wed04PM ??         0:03.27 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=996 --launch-time-ticks=119909271559 --shared-files --seatbelt-client=147
+  502 32075   425   0 Wed04PM ??         0:48.12 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=1012 --launch-time-ticks=120392372881 --shared-files --seatbelt-client=147
+  502 35954     1   0 Wed11PM ??         0:00.07 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  502 38143   425   0  1:54PM ??         0:06.30 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=1184 --launch-time-ticks=145701626376 --shared-files --seatbelt-client=340
+  502 39754     1   0  3:47PM ??         0:00.35 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  222 40365     1   0  4:34PM ??         0:00.22 /usr/sbin/netbiosd
+  502 40500     1   0  4:41PM ??         0:16.19 /System/Library/Input Methods/SCIM.app/Contents/PlugIns/SCIM_Extension.appex/Contents/MacOS/SCIM_Extension -AppleLanguages ("en-US", "zh-Hans-US", "zh-Hant-US")
+  502 40961   101   0  8:16PM ??         0:00.14 /System/Library/SystemConfiguration/EAPOLController.bundle/Contents/Resources/eapolclient -i en0 -u 502 -g 20
+  502 41139     1   0  8:40PM ??         0:00.70 /usr/libexec/studentd
+  502 41142     1   0  8:40PM ??         0:00.37 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+    0 41153     1   0  8:40PM ??         0:00.31 /usr/libexec/sandboxd
+  502 41162     1   0  8:40PM ??         0:00.72 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+   88 41468     1   0  8:56PM ??         0:00.19 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+    0 41770     1   0  9:12PM ??         0:00.02 /usr/libexec/applessdstatistics
+    0 42779     1   0 10:32PM ??         0:04.41 /usr/libexec/PerfPowerServices
+  502 42794     1   0 11:13PM ??         0:00.99 /usr/libexec/remindd
+  502 42903     1   0 11:20PM ??         0:02.55 /System/Applications/Preview.app/Contents/MacOS/Preview
+  502 42904     1   0 11:20PM ??         0:02.58 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+  502 42905     1   0 11:20PM ??         0:07.52 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  502 42906     1   0 11:20PM ??         0:00.19 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  502 42908     1   0 11:20PM ??         0:00.75 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  502 42913     1   0 11:21PM ??         0:00.02 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+  502 43007     1   0 11:33PM ??         0:12.50 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+  502 43017     1   0 11:33PM ??         0:00.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/XPCServices/com.apple.DictionaryServiceHelper.xpc/Contents/MacOS/com.apple.DictionaryServiceHelper
+  502 43024     1   0 11:34PM ??         0:00.01 ssh-agent -s
+  502 43029     1   0 11:35PM ??         0:02.54 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit
+  502 43030     1   0 11:35PM ??         0:07.02 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  502 43031     1   0 11:35PM ??         0:00.12 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  502 43117     1   0 11:41PM ??         0:00.49 /System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
+  502 43139   425   0 11:44PM ??         0:00.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --service-sandbox-type=service --shared-files --seatbelt-client=320
+  502 44589   425   0 11:46PM ??         0:01.18 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/97.0.4692.99/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1718379636,15751896048209102795,10693992477984274657,131072 --lang=en-US --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=1406 --launch-time-ticks=166304047462 --shared-files --seatbelt-client=320
+  502 45472     1   0 11:49PM ??         0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+    0 43008 43007   0 11:33PM ttys000    0:00.08 login -pf mallorygilligan
+  502 43009 43008   0 11:33PM ttys000    0:00.17 -zsh
+    0 45560 43009   0 11:50PM ttys000    0:00.01 ps -ef
