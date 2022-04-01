@@ -1,0 +1,17 @@
+#include <tunables/global>
+/home/mallorygilligan/p2 flags=(audit) {
+  #include <abstractions/base>
+  #include <abstractions/user-tmp>
+  /var/log/syslog rw,
+  network tcp,
+  /home/mallorygilligan/p2 mr,
+  /home/mallorygilligan/.project2/config rwm,
+  /etc/timezone rw,
+  /proc/uptime rw,
+  /etc/hostid rw,
+  /etc/passwd rw,
+  /etc/hosts rw,
+  /home/mallorygilligan/template rwm,
+  deny @{PROC}/meminfo r,
+  deny @{PROC}/stat r,
+}
