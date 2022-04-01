@@ -1,0 +1,10 @@
+/home/mallorygilligan/cy2550/project6/p2 flags=(complain) {
+  allow /etc/hostid r,
+  allow /etc/timezone r,
+  allow /proc/uptime r,
+  allow /var/log/syslog r,
+  allow owner /home/*/cy2550/project6/template r,
+
+  /home/mallorygilligan/cy2550/project6/p2 mr,
+  ownwer /home/*/.project2/config w,
+}
