@@ -1,0 +1,17 @@
+# Last Modified: Mon Apr  4 19:39:23 2022
+#include <tunables/global>
+
+/home/mallorygilligan/p2 flags=(audit) {
+  #include <abstractions/base>
+  #include <abstractions/nameservice>
+  #include <abstractions/user-tmp>
+
+  /etc/hostid r,
+  /etc/timezone r,
+  /home/mallorygilligan/p2 mr,
+  /proc/uptime r,
+  /var/log/syslog r,
+  owner /home/*/.project2/config w,
+  owner /home/*/template r,
+
+}
